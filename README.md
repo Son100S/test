@@ -1,2 +1,2 @@
 # test
-Dit is te testen
+Dit is om te testen
